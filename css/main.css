@@ -662,8 +662,6 @@ body{
 /* Break */
 
 .section1 {
-  background-image: url("../assets/banner.jpg");
-  background-size: cover;
   overflow: hidden;
   margin-left: -10%;
   margin-right: -10%;
